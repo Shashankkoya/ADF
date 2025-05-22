@@ -1,0 +1,9 @@
+{
+	"name": "shankadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eedc9b9b-963b-4e83-910a-20124c074955",
+		"tenantId": "73231840-f636-44fa-840f-46418a16ab76"
+	}
+}
